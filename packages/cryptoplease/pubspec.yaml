@@ -36,7 +36,7 @@ dependencies:
   flutter_svg_provider: ^1.0.3
   freezed_annotation: ^2.1.0
   http: ^0.13.5
-  image_picker: ^0.8.5+3
+  image_picker: ^0.8.6
   intl: ^0.17.0
   json_annotation: ^4.4.0
   logging: ^1.0.2
